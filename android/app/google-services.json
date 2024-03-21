@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "922418710491",
+    "project_id": "login-9dc05",
+    "storage_bucket": "login-9dc05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922418710491:android:4435ed4713251f8cd589fe",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922418710491-7tqvgh40cv8t9kkg5kgabm048a52069l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloc_firebase",
+            "certificate_hash": "2a3fdb50d8da69534af7e0004c2bc00f62fb02dd"
+          }
+        },
+        {
+          "client_id": "922418710491-u8l4fcp59k3jon497fs7fcoq3p10bd8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsfS65es5_MbSyDIuhnNzZTstUWo_GbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922418710491-u8l4fcp59k3jon497fs7fcoq3p10bd8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922418710491-0fqbvrh24r7rjc2fudjs0mdp1dcft419.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blocLoginFirebaseGoogle"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922418710491:android:110e2d85ec687a84d589fe",
+        "android_client_info": {
+          "package_name": "com.example.bloc_login_firebase_google"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922418710491-u8l4fcp59k3jon497fs7fcoq3p10bd8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALsfS65es5_MbSyDIuhnNzZTstUWo_GbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922418710491-u8l4fcp59k3jon497fs7fcoq3p10bd8v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922418710491-0fqbvrh24r7rjc2fudjs0mdp1dcft419.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blocLoginFirebaseGoogle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
